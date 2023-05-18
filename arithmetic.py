@@ -25,13 +25,13 @@ def divide(num1, num2):
     return num1 / num2
 
 
-def square(num1):
+def square(num1, num2):
     """Return the square of num1."""
 
     return num1 * num1
 
 
-def cube(num1):
+def cube(num1, num2):
     """Return the cube of num1."""
 
     return num1 * num1 * num1
